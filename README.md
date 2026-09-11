@@ -1,2 +1,2 @@
 # investama
-Mengelola investasi
+Mengelola investasi & memilah instrumen terbaik
